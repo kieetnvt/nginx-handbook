@@ -1,0 +1,2 @@
+127.0.0.1 - - [04/Jan/2023:17:52:45 +0700] "GET /admin HTTP/1.1" 200 40 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+127.0.0.1 - - [04/Jan/2023:17:53:03 +0700] "GET /admin HTTP/1.1" 200 40 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
